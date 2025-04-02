@@ -81,7 +81,7 @@
 }
 
 section {
-    display: block;
+    display: none;
 }
 
 section.ativo {
